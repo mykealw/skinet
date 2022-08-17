@@ -50,3 +50,9 @@ C:\Users\MykealWheeler\Source\Repos\skinet\API\bin\Debug\net6.0\runtimes\win-arm
 C:\Users\MykealWheeler\Source\Repos\skinet\API\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\MykealWheeler\Source\Repos\skinet\API\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\MykealWheeler\Source\Repos\skinet\API\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\MykealWheeler\Source\Repos\skinet\API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\MykealWheeler\Source\Repos\skinet\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\MykealWheeler\Source\Repos\skinet\API\bin\Debug\net6.0\Core.dll
+C:\Users\MykealWheeler\Source\Repos\skinet\API\bin\Debug\net6.0\Infrastructure.dll
+C:\Users\MykealWheeler\Source\Repos\skinet\API\bin\Debug\net6.0\Infrastructure.pdb
+C:\Users\MykealWheeler\Source\Repos\skinet\API\bin\Debug\net6.0\Core.pdb
