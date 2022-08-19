@@ -24,21 +24,32 @@ namespace Infrastructure.Data
                     }
                     await context.SaveChangesAsync();
                 }
-                if (!context.ProductBrands.Any())
+                if (!context.ProductTypes.Any())
                 {
-                    var brandsData = File.ReadAllText("../Infrastructure/Data/SeedData/brands.json");
-                    var brands = JsonSerializer.Deserialize<List<ProductBrand>>(brandsData);
-                    foreach (var item in brands)
+                    var typesdata = File.ReadAllText("../Infrastructure/Data/SeedData/types.json");
+                    var types = JsonSerializer.Deserialize<List<ProductType>>(typesdata);
+                    foreach (var item in types)
                     {
-                        context.ProductBrands.Add(item);
+                        context.ProductTypes.Add(item);
+                    }
+                    await context.SaveChangesAsync();
+                }
+                if (!context.Products.Any())
+                {
+                    var productdata = File.ReadAllText("../Infrastructure/Data/SeedData/products.json");
+                    var products = JsonSerializer.Deserialize<List<Product>>(productdata);
+                    foreach (var item in products)
+                    {
+                        context.Products.Add(item);
                     }
                     await context.SaveChangesAsync();
                 }
             }
-            catch (System.Exception)
+            catch (System.Exception ex)
             {
 
-                throw;
+                var logger = loggerFactory.CreateLogger<StoreContextSeed>();
+                logger.LogError(ex.Message);
             }
         }
     }
