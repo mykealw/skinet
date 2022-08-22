@@ -680,9 +680,6 @@
       "Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "AutoMapper.Extensions.Microsoft.DependencyInjection": "11.0.0"
-        },
         "compile": {
           "bin/placeholder/Core.dll": {}
         },
@@ -694,7 +691,6 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
-          "AutoMapper.Extensions.Microsoft.DependencyInjection": "11.0.0",
           "Core": "1.0.0",
           "Microsoft.EntityFrameworkCore.Sqlite": "6.0.8"
         },
