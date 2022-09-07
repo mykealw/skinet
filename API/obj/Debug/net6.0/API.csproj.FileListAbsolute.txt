@@ -74,3 +74,16 @@ C:\Users\MykealWheeler\Source\Repos\skinet\API\bin\Debug\net6.0\runtimes\unix\li
 C:\Users\MykealWheeler\Source\Repos\skinet\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
 C:\Users\MykealWheeler\Source\Repos\skinet\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\MykealWheeler\Source\Repos\skinet\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\MykealWheeler\Source\Repos\skinet\API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\MykealWheeler\Source\Repos\skinet\API\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\MykealWheeler\Source\Repos\skinet\API\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\MykealWheeler\Source\Repos\skinet\API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\MykealWheeler\Source\Repos\skinet\API\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\MykealWheeler\Source\Repos\skinet\API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\MykealWheeler\Source\Repos\skinet\API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MykealWheeler\Source\Repos\skinet\API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\MykealWheeler\Source\Repos\skinet\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MykealWheeler\Source\Repos\skinet\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MykealWheeler\Source\Repos\skinet\API\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\MykealWheeler\Source\Repos\skinet\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MykealWheeler\Source\Repos\skinet\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
